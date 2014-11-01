@@ -1,0 +1,26 @@
+body{
+font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+
+}
+header{
+background-color: #038B9A;
+padding: 2em;
+color: #FFF;
+
+}
+.contenedor{
+max-width: 400px;
+margin: 0 auto;
+display: none;
+}
+.triangulito{
+border-top: solid 15px #038B9A;
+border-left: solid 15px transparent;
+border-right: solid 15px transparent;
+height: 0;
+width: 0;
+margin: 0 auto;
+}
+legend{
+	text-align: center;
+}
